@@ -6,8 +6,13 @@
       <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">What We Do</h2>
       <div class="mt-6 flex flex-col gap-x-8 gap-y-20 lg:flex-row">
         <div class="lg:w-full lg:max-w-2xl lg:flex-auto">
-          <p class="text-xl leading-8 text-gray-600">We're a venture studio that works with corporations to realize innovation through new venture creation. </p>
-          <p class="mt-10 max-w-xl text-base leading-7 text-gray-700">We believe corporations hold a source of unique insights that if commercialized with the right team and incentives, magic can happen. But ideas are worthless without execution.</p>
+          <p class="text-xl leading-8 text-gray-600">We're a venture studio that works with corporations to realize innovation through new venture creation. If we and our investors believe a problem is worth solving in a big enough market, we'll be the first ones to write a check.</p>
+          <p class="mt-10 max-w-xl text-base leading-7 text-gray-700">Corporations hold a unique source of insights that if commercialized with the right team and incentives, magic can happen. But ideas are worthless without execution. So, we're flipping the model
+          to make it easier for corporations to launch high-growth technology startups.</p>
+          <div class="mt-10 flex items-center gap-x-6">
+            <router-link to="/application" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Submit an Application</router-link>
+          </div>
+          <p class="mt-4 max-w-xl text-sm italic leading-5 text-gray-500">If you application is selected we'll reach out to put a mutual nondisclosure agreement in place before talking details.</p>
         </div>
         <div class="lg:flex lg:flex-auto lg:justify-center">
           <dl class="w-64 space-y-8 xl:w-80">
@@ -17,12 +22,13 @@
             </div>
             <div class="flex flex-col-reverse gap-y-4">
               <dt class="text-base leading-7 text-gray-600">Investment Capital</dt>
-              <dd class="text-5xl font-semibold tracking-tight text-gray-900">~$1,000,000</dd>
+              <dd class="text-5xl font-semibold tracking-tight text-gray-900">$1,000,000*</dd>
             </div>
             <div class="flex flex-col-reverse gap-y-4">
               <dt class="text-base leading-7 text-gray-600">Co-Founders</dt>
               <dd class="text-5xl font-semibold tracking-tight text-gray-900">2+</dd>
             </div>
+            <p class="mt-4 max-w-xl text-sm italic leading-5 text-gray-500">*Represents total capital invested in a new startup. Hivernate will invest up to $500k with the remaining coming from the corproate partner in exchange for equity.</p>
           </dl>
         </div>
       </div>
@@ -51,7 +57,7 @@
         </svg>
         <div class="text-base leading-7">
           <h3 class="font-semibold text-white">Synthesize</h3>
-          <p class="mt-2 text-gray-300">We take promising business challenges and opportunities and quickly determine if there is merit pursuing a new venture.</p>
+          <p class="mt-2 text-gray-300">We take promising business challenges and opportunities and quickly determine if there is merit pursuing a new venture. We look for corporate partners who will also be likely first customers.</p>
         </div>
       </div>
       <div class="flex gap-x-4 rounded-xl bg-white/5 p-6 ring-1 ring-inset ring-white/10">

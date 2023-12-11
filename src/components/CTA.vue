@@ -5,8 +5,11 @@
     <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
       <div>
         <h2 class="text-base font-semibold leading-7 text-indigo-600">Everything you need</h2>
-        <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">All-in-one venture platform</p>
-        <p class="mt-6 text-base leading-7 text-gray-600">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.</p>
+        <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">All-in-one venture building platform</p>
+        <p class="mt-6 text-base leading-7 text-gray-600">Venture building is a powerful corporate strategy that unlocks new learnings, growth opportunities, and revenue that didn't exist before or was locked behind bureaucratic walls.
+        <br>
+        <br>
+        But, like venture investing, you have to stick around for the entire game. While you may see incremental value from new ventures in the first year, exponential value comes from time in the market (8+ years).</p>
       </div>
       <dl class="col-span-2 grid grid-cols-1 gap-x-8 gap-y-10 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:gap-y-16">
         <div class="relative pl-9">
