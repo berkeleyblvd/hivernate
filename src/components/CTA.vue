@@ -19,7 +19,7 @@
             </svg>
             Application
           </dt>
-          <dd class="mt-2">Rerum repellat labore necessitatibus reprehenderit molestiae praesentium.</dd>
+          <dd class="mt-2">Your application matters, a lot! We look for unique problems whereby a corporate partner can add a source of advantage to a new venture.</dd>
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
@@ -28,7 +28,7 @@
             </svg>
             Synthesis
           </dt>
-          <dd class="mt-2">Corporis asperiores ea nulla temporibus asperiores non tempore assumenda aut.</dd>
+          <dd class="mt-2">If selected, we go under a mutual NDA and work with your team to translate the problem into a venture backable opportunity.</dd>
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
@@ -37,7 +37,7 @@
             </svg>
             Problem Validation
           </dt>
-          <dd class="mt-2">In sit qui aliquid deleniti et. Ad nobis sunt omnis. Quo sapiente dicta laboriosam.</dd>
+          <dd class="mt-2">Over the course of a few weeks, we validate the problem with other potential customers and investors in the space.</dd>
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
@@ -46,7 +46,7 @@
             </svg>
             Market Sizing
           </dt>
-          <dd class="mt-2">Sed rerum sunt dignissimos ullam. Iusto iure occaecati voluptate eligendi fugiat sequi.</dd>
+          <dd class="mt-2">We assess the market size and determine where and how a new venture will win.</dd>
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
@@ -55,7 +55,7 @@
             </svg>
             Solution Definition
           </dt>
-          <dd class="mt-2">Quos inventore harum enim nesciunt. Aut repellat rerum omnis adipisci.</dd>
+          <dd class="mt-2">By understanding the problem and competitive landscape, we ideate potential solutions that address the prioritized value propositions.</dd>
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
@@ -64,7 +64,7 @@
             </svg>
             Use of Funds
           </dt>
-          <dd class="mt-2">Quae sit sunt excepturi fugit veniam voluptatem ipsum commodi.</dd>
+          <dd class="mt-2">A use of funds model is created that lays out key milestones and expected runway for the incoming co-founding team.</dd>
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
@@ -73,7 +73,7 @@
             </svg>
             Founder Profile
           </dt>
-          <dd class="mt-2">Eos laudantium repellat sed architecto earum unde incidunt. Illum sit dolores voluptatem.</dd>
+          <dd class="mt-2">We collaborate with our network and professional recruiters to find multi-time zero-to-one founders that have a balanced combination of technical and industry-relevant skills.</dd>
         </div>
         <div class="relative pl-9">
           <dt class="font-semibold text-gray-900">
@@ -82,7 +82,7 @@
             </svg>
             Term Sheet
           </dt>
-          <dd class="mt-2">Nulla est saepe accusamus nostrum est est. Fugit voluptatum omnis quidem voluptatem.</dd>
+          <dd class="mt-2">We use standard SAFE agreements to keep the deal simple and free of complexity. If you prefer convertible notes, we're open to those as well - as long as we keep them simple.</dd>
         </div>
       </dl>
     </div>
