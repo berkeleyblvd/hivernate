@@ -17,7 +17,7 @@
             </div>
             <div class="flex flex-col-reverse gap-y-4">
               <dt class="text-base leading-7 text-gray-600">Investment Capital</dt>
-              <dd class="text-5xl font-semibold tracking-tight text-gray-900">$1 Million</dd>
+              <dd class="text-5xl font-semibold tracking-tight text-gray-900">~$1,000,000</dd>
             </div>
             <div class="flex flex-col-reverse gap-y-4">
               <dt class="text-base leading-7 text-gray-600">Co-Founders</dt>
