@@ -17,12 +17,12 @@
         <div class="lg:flex lg:flex-auto lg:justify-center">
           <dl class="w-64 space-y-8 xl:w-80">
             <div class="flex flex-col-reverse gap-y-4">
-              <dt class="text-base leading-7 text-gray-600">Time to launch</dt>
+              <dt class="text-base leading-7 text-gray-600">Time to Investment Decision</dt>
               <dd class="text-5xl font-semibold tracking-tight text-gray-900">4-6 Weeks</dd>
             </div>
             <div class="flex flex-col-reverse gap-y-4">
               <dt class="text-base leading-7 text-gray-600">Investment Capital</dt>
-              <dd class="text-5xl font-semibold tracking-tight text-gray-900">$1,000,000*</dd>
+              <dd class="text-5xl font-semibold tracking-tight text-gray-900">$1M*</dd>
             </div>
             <div class="flex flex-col-reverse gap-y-4">
               <dt class="text-base leading-7 text-gray-600">Co-Founders</dt>

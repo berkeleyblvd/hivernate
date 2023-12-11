@@ -7,7 +7,7 @@
     <div class="xl:grid xl:grid-cols-3 xl:gap-8">
       <div class="space-y-8">
         <img class="h-7" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500" alt="Company name">
-        <p class="text-sm leading-6 text-gray-300">Making the world a better place through constructing elegant hierarchies.</p>
+        <p class="text-sm leading-6 text-gray-300">We’re changing the way corporations innovate.</p>
         <div class="flex space-x-6">
           <a href="#" class="text-gray-500 hover:text-gray-400">
             <span class="sr-only">Facebook</span>
@@ -44,36 +44,27 @@
       <div class="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
         <div class="md:grid md:grid-cols-2 md:gap-8">
           <div>
-            <h3 class="text-sm font-semibold leading-6 text-white">Solutions</h3>
+            <h3 class="text-sm font-semibold leading-6 text-white">Studio</h3>
             <ul role="list" class="mt-6 space-y-4">
               <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Marketing</a>
+                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Application</a>
               </li>
               <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Analytics</a>
-              </li>
-              <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Commerce</a>
-              </li>
-              <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Insights</a>
+                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Founders</a>
               </li>
             </ul>
           </div>
           <div class="mt-10 md:mt-0">
-            <h3 class="text-sm font-semibold leading-6 text-white">Support</h3>
+            <h3 class="text-sm font-semibold leading-6 text-white">Legal</h3>
             <ul role="list" class="mt-6 space-y-4">
               <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Pricing</a>
+                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Privacy</a>
               </li>
               <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Documentation</a>
+                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Terms</a>
               </li>
               <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Guides</a>
-              </li>
-              <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">API Status</a>
+                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Mutual NDA</a>
               </li>
             </ul>
           </div>
@@ -86,13 +77,13 @@
                 <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">About</a>
               </li>
               <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Blog</a>
+                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Team</a>
               </li>
               <li>
                 <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Jobs</a>
               </li>
               <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Press</a>
+                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">News</a>
               </li>
               <li>
                 <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Partners</a>
@@ -100,16 +91,13 @@
             </ul>
           </div>
           <div class="mt-10 md:mt-0">
-            <h3 class="text-sm font-semibold leading-6 text-white">Legal</h3>
+            <h3 class="text-sm font-semibold leading-6 text-white">Network</h3>
             <ul role="list" class="mt-6 space-y-4">
               <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Claim</a>
+                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Investors</a>
               </li>
               <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Privacy</a>
-              </li>
-              <li>
-                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Terms</a>
+                <a href="#" class="text-sm leading-6 text-gray-300 hover:text-white">Mentors</a>
               </li>
             </ul>
           </div>
@@ -117,7 +105,7 @@
       </div>
     </div>
     <div class="mt-16 border-t border-white/10 pt-8 sm:mt-20 lg:mt-24">
-      <p class="text-xs leading-5 text-gray-400">&copy; 2020 Your Company, Inc. All rights reserved.</p>
+      <p class="text-xs leading-5 text-gray-400">&copy; 2024 Hivernate, LLC. All rights reserved.</p>
     </div>
   </div>
 </footer>
