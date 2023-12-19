@@ -87,7 +87,7 @@ export default {
         const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
         const targetUrl = 'https://script.google.com/macros/s/AKfycbwjflMDzM37lBwIgFLEWh-v0T1dh6qkfRogFsqsjWrqxAwzYYdsO5yGw3yUjz6Ynk2ncA/exec'; // Your Web App URL
 
-        fetch(proxyUrl + targetUrl, {
+        const response = await fetch(proxyUrl + targetUrl, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
