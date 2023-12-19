@@ -84,9 +84,11 @@ export default {
       };
 
       try {
-        const response = await fetch('https://script.google.com/macros/s/AKfycbwjflMDzM37lBwIgFLEWh-v0T1dh6qkfRogFsqsjWrqxAwzYYdsO5yGw3yUjz6Ynk2ncA/exec', {
+        const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+        const targetUrl = 'https://script.google.com/macros/s/AKfycbwjflMDzM37lBwIgFLEWh-v0T1dh6qkfRogFsqsjWrqxAwzYYdsO5yGw3yUjz6Ynk2ncA/exec'; // Your Web App URL
+
+        fetch(proxyUrl + targetUrl, {
           method: 'POST',
-          mode: 'no-cors', // To handle CORS issues
           headers: {
             'Content-Type': 'application/json',
           },
