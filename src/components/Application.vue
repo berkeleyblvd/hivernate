@@ -84,7 +84,7 @@ export default {
       };
 
       try {
-        const response = await fetch('https://script.google.com/a/macros/berkeleyblvd.com/s/AKfycbwjflMDzM37lBwIgFLEWh-v0T1dh6qkfRogFsqsjWrqxAwzYYdsO5yGw3yUjz6Ynk2ncA/exec', {
+        const response = await fetch('https://script.google.com/macros/s/AKfycbwjflMDzM37lBwIgFLEWh-v0T1dh6qkfRogFsqsjWrqxAwzYYdsO5yGw3yUjz6Ynk2ncA/exec', {
           method: 'POST',
           mode: 'no-cors', // To handle CORS issues
           headers: {
