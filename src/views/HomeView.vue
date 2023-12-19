@@ -1,7 +1,7 @@
 <template>
   <HelloWorld />
   <ValueProp />
-  <CTA />
+  <Application />
   <Footer />
 </template>
 
@@ -9,6 +9,7 @@
 import HelloWorld from '@/components/HelloWorld.vue';
 import ValueProp from '@/components/ValueProp.vue';
 import CTA from '@/components/CTA.vue';
+import Application from '@/components/Application.vue';
 import Footer from '@/components/Footer.vue';
 
 export default {
@@ -17,6 +18,7 @@ export default {
     HelloWorld,
     ValueProp,
     CTA,
+    Application,
     Footer
   }
 }
