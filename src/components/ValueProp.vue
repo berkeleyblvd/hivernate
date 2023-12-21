@@ -12,7 +12,7 @@
           <dt class="flex items-center gap-x-3 text-xl font-semibold leading-7 text-white">
             Move Quickly
           </dt>
-          <dt class="text-base leading-7 text-slate-500">We deliver up to 4 investment opportunities within a 6-month period. Unlike consultants, we don't drag timeframes along. When we see an opportunity we act.</dt>
+          <dt class="text-base leading-7 text-slate-500">We deliver up to 4 investment opportunities within a 6-month period for each partner. Unlike consultants, we don't drag projects along because a SOW says so - when we see an opportunity we act.</dt>
           <br>
           <dd class="text-5xl font-semibold tracking-tight text-blue-500">6 Weeks</dd>
         </div>
@@ -34,6 +34,21 @@
         </div>
       </dl>
     </div>
+    <!-- Portfolio -->
+    <div class="bg-gray-900 py-24 sm:py-32 mt-16">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8 lg:text-center">
+        <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-6xl">Portfolio Experience</p>
+        <p class="mt-6 text-lg leading-8 text-gray-300">Our team has helped launched dozens of companies through the corpate partner venture studio playbook</p>
+        <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
+          <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/transistor-logo-white.svg" alt="Transistor" width="158" height="48">
+          <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/reform-logo-white.svg" alt="Reform" width="158" height="48">
+          <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/tuple-logo-white.svg" alt="Tuple" width="158" height="48">
+          <img class="col-span-2 max-h-12 w-full object-contain sm:col-start-2 lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/savvycal-logo-white.svg" alt="SavvyCal" width="158" height="48">
+          <img class="col-span-2 col-start-2 max-h-12 w-full object-contain sm:col-start-auto lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/statamic-logo-white.svg" alt="Statamic" width="158" height="48">
+        </div>
+      </div>
+    </div>
+
   </div>
 </div>
 
