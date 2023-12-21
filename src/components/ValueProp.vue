@@ -55,7 +55,7 @@
       <div class="mx-auto max-w-7xl px-6 lg:px-8">
         <div class="mx-auto max-w-2xl sm:text-center">
           <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-6xl">Founder Platform</p>
-          <p class="mt-6 text-lg leading-8 text-gray-300">We understand how challenging it is to build a tech startup, so we've designed a platform to scale across a portfolio.</p>
+          <p class="mt-6 text-lg leading-8 text-gray-300">We understand how challenging it is to build a tech startup, so we've designed a platform to support each new venture so they're always supported - ensuring we're good stewards of our investor and corporate partners' capital.</p>
         </div>
       </div>
       <div class="mx-auto mt-16 max-w-7xl px-6 sm:mt-20 md:mt-24 lg:px-8">
