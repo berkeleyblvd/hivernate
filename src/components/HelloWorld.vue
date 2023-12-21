@@ -10,6 +10,7 @@
             <div class="mx-auto max-w-2xl gap-x-14 lg:mx-0 lg:flex lg:max-w-none lg:items-center">
               <div class="relative w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
                 <h1 class="text-6xl font-bold text-white sm:text-6xl">We translate business insights into venture investible startups</h1>
+                <p class="mt-6 text-lg leading-8 text-gray-400 sm:max-w-md lg:max-w-none">We are a complement to corporate innovation, a partner to corporate venture, and a collaborator to future corporate strategy. We believe that we never lose, we win or we learn; we’re quick learners and seasoned integrators. New ventures are experiments designed to create data that doesn't exist anywhere else in the world.</p>
               </div>
               <div class="mt-14 flex justify-end gap-8 sm:-mt-44 sm:justify-start sm:pl-20 lg:mt-0 lg:pl-0">
                 <div class="ml-auto w-44 flex-none space-y-8 pt-32 sm:ml-0 sm:pt-80 lg:order-last lg:pt-36 xl:order-none xl:pt-80">
