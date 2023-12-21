@@ -2,7 +2,7 @@
 
   <div class="bg-gray-900 px-6 py-24 sm:py-32 lg:px-8">
     <div class="mx-auto max-w-2xl text-center">
-      <h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">Partner with us</h2>
+      <h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">Lets Build Together</h2>
       <p class="mt-6 text-lg leading-8 text-gray-300">Unlock your business insights to build advantaged startups that create data not available anywhere else in the world.</p>
       <div class="mt-10">
         <a href="https://bd0hgjc84jc.typeform.com/to/GwTCQ47i">
